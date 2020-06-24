@@ -1,0 +1,19 @@
+A Cat RPG
+
+CAT ACTIONS
+ > Feed
+	> response: satisfied long meow. third - burp
+	> Msg: long meow
+ > Pet
+	> response: many meows, happy
+	> msg: meow meow meow
+ > Play
+	> annoyed meow
+	> response: lazy uwu
+ > Nap
+	> snooze
+ > Emotional Response
+	> use psych emotional wheel
+	> each response has a face and a message
+ 
+Each action gives a response. That's it. render using pixel art faces without moving body. message in text bubble. should be doable right.
